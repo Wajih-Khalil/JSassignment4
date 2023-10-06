@@ -6,8 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title> JS assignment 4</title>
     <h4>Chapters from 17-20 && chapters from 21-25</h4>
+    <title> JS assignment 5</title>
+    <h4>Chapters from 26-30 && chapters from 31-34</h4>
 </head>
 <body>
-    <script src="./assign3.js"></script> 
+    <script src="./assign4.js"></script>
+    <script src="./assign5.js"></script>
 </body>
 </html>
